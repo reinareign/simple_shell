@@ -67,4 +67,4 @@ This project is licensed under the [MIT License (LICENSE).
 
 ## Acknowledgements
 
-This project was developed as a collaboration between {Chisom Enem}(https://github.com/reinareign) and [Gad Nwala](https://github.com/DammyNova7) in the [ALX Software Engineering Program](https://www.alxafrica.com/software-engineering)/. We would like to acknowledge the joint effort and contributions made by both team members in creating this Simple Shell.
+This project was developed as a collaboration between [Chisom Enem](https://github.com/reinareign) and [Gad Nwala](https://github.com/DammyNova7) in the [ALX Software Engineering Program](https://www.alxafrica.com/software-engineering/). We would like to acknowledge the joint effort and contributions made by both team members in creating this Simple Shell.
