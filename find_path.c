@@ -1,9 +1,9 @@
 #include "shell.h"
 /**
- * find_path - gets the path of a command to be executed on the shell
- * @cmd: the command to find the path
+ * find_path - function that gets the path of a command to be executed on the shell.
+ * @cmd: the command to find the path.
  *
- * Return: pointer to the path.
+ * Return: a pointer to the path.
  */
 char *find_path(char *cmd)
 {
