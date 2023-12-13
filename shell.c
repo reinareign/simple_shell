@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * prompt - Display the shell prompt
+ * prompt - funct to display the shell prompt
  *
  * Return: nothing
  */
@@ -16,7 +16,7 @@ void prompt(void)
 /**
  * process_input - Process the user input.
  *
- * @lineptr: Pointer to the input line.
+ * @lineptr: a pointer to the input line.
  * Return: Parsed arguments (NULL-terminated).
  */
 char **process_input(char *lineptr)
