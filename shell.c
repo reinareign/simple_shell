@@ -1,9 +1,9 @@
 #include "shell.h"
 
 /**
- * prompt - funct to display the shell prompt
+ * prompt - display the shell prompt.
  *
- * Return: nothing
+ * Return: nothing.
  */
 void prompt(void)
 {
