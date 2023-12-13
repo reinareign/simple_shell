@@ -1,6 +1,6 @@
 # Simple Shell
 
-This is a Simple Shell program implemented in the C language. It provides a basic c
+This is a Simple Shell program implemented in the C programming language. It provides a basic c
 ommand-line interface where users can enter commands and have them executed by the
 shell.
 
