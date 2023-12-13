@@ -1,8 +1,8 @@
 #include "shell.h"
 
 /**
- * builtin_cd - changes working directory
- * @args: argument passed
+ * builtin_cd - funct that changes working directory
+ * @args: argument passed.
  *
  * Return: 0 on success.
 */
